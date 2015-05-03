@@ -1,0 +1,6 @@
+nop
+irmovl 1,%eax
+irmovl 4,%ebx
+irmovl 3,%ecx
+mul %ebx,%ecx
+halt
